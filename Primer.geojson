@@ -1,0 +1,6 @@
+{ "type": "FeatureCollection",
+                                        
+"features": [
+{ "type": "Feature", "properties": { "id": null, "building": null, "addr_street": null, "addr_city": null, "addr_housenumber": null, "highway": null, "building_levels": null, "addr_postcode": null, "landuse": null, "name": null, "amenity": null, "addr_country": null, "oneway": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 41.918116, 45.018981 ], [ 41.906206, 45.012161 ], [ 41.915496, 45.007867 ], [ 41.927763, 45.011319 ], [ 41.938244, 45.003741 ], [ 41.943246, 45.018055 ], [ 41.918116, 45.018981 ] ] ] } }
+]
+}
